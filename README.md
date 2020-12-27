@@ -4,3 +4,7 @@
 
 # ΧΡΗΣΗ
 Μπορείτε να τρέξετε το αρχείο .sql για να δημιουργηθεί η βάση και να στηθεί το site locally για να χρησιμοποιηθεί το localhost.
+
+# POSTMAN
+Παρακάτω υπάρχει ο σύνδεσμος για την παρουσίαση του REST Api στο Postman.
+https://www.getpostman.com/collections/a7f090ed0b06d89f7f6d
