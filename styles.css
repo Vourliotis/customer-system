@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+body{
+    margin: 0;
+    font-weight: 400;
+    line-height: 1.6;
+    text-align: left;
+    background-color: #fafafb;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,.04);
+    background-color: white;
+}
+
+.navbar-brand {
+    font-family: Raleway, sans-serif;
+}
+
+.data-form {
+    padding-top: 6rem;
+    padding-bottom: 1.5rem;
+}
+
+.data-form .row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.table-container {
+    padding-top: 6rem;
+    padding-bottom: 1.5rem;
+}
+
+table {
+    font-family: Raleway, sans-serif;
+    font-weight: 300;
+    box-shadow: 0 2px 4px rgba(0,0,0,.04);  
+    background-color: white;
+}
+
+
+th, td{
+    border: 1px solid black;
+}
+
+.card-header {
+    background-color: #373e45;
+}
