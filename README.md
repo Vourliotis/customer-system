@@ -1,6 +1,6 @@
 # ΠΛΗΡΟΦΟΡΙΕΣ
  Η ζητούμενη άσκηση υλοποιήθηκε σύμφωνα με τις Πηγές Β και Γ. Αν η ιστοσελίδα βρισκόταν στον ίδιο server θα μπορούσαμε να χρησιμοποιήσουμε κατευθείαν τα .php αρχεία από το REST Api.
-Για το local development environment χρησιμοποιήθηκε το XAMPP για βάση δεδομένων MariaDB και το phpMyAdmin για το database administration.
+Για το local development environment χρησιμοποιήθηκε το XAMPP με βάση δεδομένων MariaDB και το phpMyAdmin για το database administration.
 
 # ΧΡΗΣΗ
-Μπορείτε να τρέξετε απλά το αρχείο .sql για να δημιουργηθεί η βάση και να στηθεί το site locally για να χρησιμοποιηθεί το localhost.
+Μπορείτε να τρέξετε το αρχείο .sql για να δημιουργηθεί η βάση και να στηθεί το site locally για να χρησιμοποιηθεί το localhost.
