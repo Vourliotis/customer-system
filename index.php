@@ -20,7 +20,7 @@
 
     <link rel="stylesheet" href="styles.css">
 
-    <title>Login Page Assignment</title>
+    <title>Customer System</title>
 </head>
 
 <body>
